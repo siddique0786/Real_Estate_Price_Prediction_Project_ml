@@ -1,9 +1,9 @@
 # # requirements:-
 numpy,
-pandas
-matplotlib
-sklearn
-pickle
-flask
-flask_cors
-json
+pandas,
+matplotlib,
+sklearn,
+pickle,
+flask,
+flask_cors,
+json,
