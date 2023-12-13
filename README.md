@@ -1,5 +1,5 @@
 # # requirements:-
-numpy
+numpy,
 pandas
 matplotlib
 sklearn
